@@ -550,4 +550,5 @@ One example is Adobe Spectrum DSP on npm, that can be installed on your project 
 For iOS you can explore sharing the tokens using [CocoaPods](https://cocoapods.org/), and for Android you can explore sharing the tokens as part of a [Gradle](https://gradle.org/).
 
 ## Questions or feedback
+
 Please file an [issue](https://github.com/AdobeXD/design-system-package-dsp/issues).
